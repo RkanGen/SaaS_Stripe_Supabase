@@ -47,8 +47,9 @@ This is a SaaS platform that enables businesses to automate their customer suppo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/ai-customer-support-saas.git
-cd ai-customer-support-saas
+git clone https://github.com/RkanGen/SaaS_Stripe_Supabase.git
+cd SaaS_Stripe_Supabase
+
 ```
 
 ---
